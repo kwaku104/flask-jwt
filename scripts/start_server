@@ -1,2 +1,3 @@
 #!/bin/bash
 service httpd restart
+# python /home/ec2-user/sample-app/run.py
