@@ -3,3 +3,4 @@ flask-restful
 flask-jwt-extended 
 passlib 
 flask-sqlalchemy
+PyMySQL
